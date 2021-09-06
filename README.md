@@ -5,6 +5,6 @@ Documentation includes:
 - Managing Azure Users in Azure AD 
 - Resetting user passwords in Azure AD
 - Creating and configuring Azure Virtual Machines (through Azure and with Bash) 
-- Creating and managing resources and storage groups 
+- Creating and managing resource and storage groups 
 - Creating and configuring VNets 
 - Connecting Windows client PCs to Azure AD
